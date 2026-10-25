@@ -1,0 +1,8 @@
+# Data files (do not commit competition data unless explicitly permitted)
+*.csv
+*.zip
+
+# Python / notebook artifacts
+__pycache__/
+.ipynb_checkpoints/
+.env
